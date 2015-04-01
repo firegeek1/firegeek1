@@ -1,0 +1,9 @@
+Building FireGeek
+
+See doc/readme-qt.rst for instructions on building FireGeek-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FireGeek.
+
+See doc/build-*.txt for instructions on building FireGeekd,
+the intended-for-services, no-graphical-interface, reference
+implementation of FireGeek.
